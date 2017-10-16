@@ -15,12 +15,12 @@ functions:
     handler: nightmare.execute
     events:
       - http:
-        path: nightmare
-        method: post
+          path: nightmare
+          method: post
   horseman:
       memorySize: 384
       handler: horseman.execute
       events:
         - http:
-          path: horseman
-          method: post
+            path: horseman
+            method: post
