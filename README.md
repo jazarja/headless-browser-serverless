@@ -14,7 +14,7 @@ Installation
     
     Run serverless deploy
         
-        sls deploy -s
+        sls deploy
         
 Test
 ----
