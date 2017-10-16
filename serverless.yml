@@ -1,4 +1,4 @@
-service: headless-serverless
+service: headless-browser-serverless
 
 provider:
   name: aws
